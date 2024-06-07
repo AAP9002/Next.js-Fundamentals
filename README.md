@@ -1,3 +1,7 @@
+[My Notion Notes](https://www.notion.so/alansnotes/Next-Tailwind-TS-51eaab9d73464976887a18b0e7cf37d0?pvs=4)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
